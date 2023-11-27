@@ -14,7 +14,7 @@ git clone https://github.com/csaiikumar/POC.git
 
 Navigate to the project directory:
 
-```bash 
+```bash
 cd POC
 
 Install dependencies:
@@ -36,7 +36,7 @@ Run the following command to start the app on an iOS simulator or connected devi
 ```bash
 npx react-native run-ios
 
-##Usage
+**##Usage**
 The app will open on the Home screen.
 Press the "Start Scanning" button to begin barcode scanning.
 Scan the operator badge, equipment ID, and work order ID.
